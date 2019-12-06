@@ -1,9 +1,8 @@
 ﻿body {
   margin:0px;
-  background-color:rgba(65, 92, 92, 1);
   background-image:none;
   position:relative;
-  left:-30px;
+  left:0px;
   width:920px;
   margin-left:auto;
   margin-right:auto;
@@ -41,8 +40,8 @@
 #u0 {
   border-width:0px;
   position:absolute;
-  left:30px;
-  top:30px;
+  left:0px;
+  top:0px;
   width:920px;
   height:61px;
   display:flex;
@@ -87,8 +86,8 @@
 #u1 {
   border-width:0px;
   position:absolute;
-  left:30px;
-  top:628px;
+  left:0px;
+  top:784px;
   width:920px;
   height:57px;
   display:flex;
@@ -117,7 +116,7 @@
   width:82px;
   height:32px;
   background:inherit;
-  background-color:rgba(99, 209, 196, 1);
+  background-color:rgba(0, 128, 128, 1);
   border:none;
   border-radius:3px;
   -moz-box-shadow:none;
@@ -129,8 +128,8 @@
 #u2 {
   border-width:0px;
   position:absolute;
-  left:741px;
-  top:641px;
+  left:711px;
+  top:797px;
   width:82px;
   height:32px;
   display:flex;
@@ -176,7 +175,7 @@
   width:82px;
   height:32px;
   background:inherit;
-  background-color:rgba(99, 209, 196, 1);
+  background-color:rgba(0, 128, 128, 1);
   border:none;
   border-radius:3px;
   -moz-box-shadow:none;
@@ -188,8 +187,8 @@
 #u3 {
   border-width:0px;
   position:absolute;
-  left:842px;
-  top:641px;
+  left:812px;
+  top:797px;
   width:82px;
   height:32px;
   display:flex;
@@ -235,13 +234,13 @@
   width:122px;
   height:32px;
   background:inherit;
-  background-color:rgba(99, 209, 196, 1);
+  background-color:rgba(0, 128, 128, 1);
   border:none;
   border-radius:3px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome ', 'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -250,12 +249,12 @@
 #u4 {
   border-width:0px;
   position:absolute;
-  left:811px;
-  top:44px;
+  left:691px;
+  top:14px;
   width:122px;
   height:32px;
   display:flex;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome ', 'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -282,7 +281,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome ', 'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -301,7 +300,7 @@
   left:0px;
   top:0px;
   width:920px;
-  height:538px;
+  height:724px;
   background:inherit;
   background-color:rgba(242, 242, 242, 1);
   box-sizing:border-box;
@@ -319,10 +318,10 @@
 #u5 {
   border-width:0px;
   position:absolute;
-  left:30px;
-  top:90px;
+  left:0px;
+  top:60px;
   width:920px;
-  height:538px;
+  height:724px;
   display:flex;
   font-family:'微软雅黑';
   font-weight:400;
@@ -365,8 +364,8 @@
 #u6 {
   border-width:0px;
   position:absolute;
-  left:32px;
-  top:90px;
+  left:2px;
+  top:60px;
   width:76px;
   height:50px;
   display:flex;
@@ -413,8 +412,8 @@
 #u7 {
   border-width:0px;
   position:absolute;
-  left:123px;
-  top:90px;
+  left:93px;
+  top:60px;
   width:76px;
   height:50px;
   display:flex;
@@ -461,8 +460,8 @@
 #u8 {
   border-width:0px;
   position:absolute;
-  left:271px;
-  top:90px;
+  left:241px;
+  top:60px;
   width:76px;
   height:50px;
   display:flex;
@@ -509,8 +508,8 @@
 #u9 {
   border-width:0px;
   position:absolute;
-  left:490px;
-  top:91px;
+  left:460px;
+  top:61px;
   width:76px;
   height:50px;
   display:flex;
@@ -557,8 +556,8 @@
 #u10 {
   border-width:0px;
   position:absolute;
-  left:693px;
-  top:91px;
+  left:663px;
+  top:61px;
   width:76px;
   height:50px;
   display:flex;
@@ -605,8 +604,8 @@
 #u11 {
   border-width:0px;
   position:absolute;
-  left:834px;
-  top:91px;
+  left:804px;
+  top:61px;
   width:76px;
   height:50px;
   display:flex;
@@ -632,8 +631,8 @@
 #u12 {
   border-width:0px;
   position:absolute;
-  left:30px;
-  top:685px;
+  left:0px;
+  top:841px;
   width:920px;
   height:29px;
   overflow:hidden;
@@ -647,7 +646,7 @@
   width:92px;
   height:32px;
   background:inherit;
-  background-color:rgba(99, 209, 196, 1);
+  background-color:rgba(0, 128, 128, 1);
   border:none;
   border-radius:3px;
   -moz-box-shadow:none;
@@ -659,8 +658,8 @@
 #u13 {
   border-width:0px;
   position:absolute;
-  left:289px;
-  top:47px;
+  left:259px;
+  top:17px;
   width:92px;
   height:32px;
   display:flex;
@@ -706,7 +705,7 @@
   width:92px;
   height:32px;
   background:inherit;
-  background-color:rgba(99, 209, 196, 1);
+  background-color:rgba(0, 128, 128, 1);
   border:none;
   border-radius:3px;
   -moz-box-shadow:none;
@@ -718,8 +717,8 @@
 #u14 {
   border-width:0px;
   position:absolute;
-  left:394px;
-  top:47px;
+  left:364px;
+  top:17px;
   width:92px;
   height:32px;
   display:flex;
@@ -790,8 +789,8 @@
 #u16 {
   border-width:0px;
   position:absolute;
-  left:52px;
-  top:44px;
+  left:22px;
+  top:14px;
   width:224px;
   height:35px;
   display:flex;
@@ -898,8 +897,8 @@
 #u17 {
   border-width:0px;
   position:absolute;
-  left:57px;
-  top:48px;
+  left:27px;
+  top:18px;
   width:217px;
   height:28px;
   display:flex;
@@ -961,8 +960,8 @@
 #u18 {
   border-width:0px;
   position:absolute;
-  left:224px;
-  top:629px;
+  left:194px;
+  top:785px;
   width:135px;
   height:56px;
   display:flex;
@@ -1008,8 +1007,8 @@
 #u19 {
   border-width:0px;
   position:absolute;
-  left:103px;
-  top:629px;
+  left:73px;
+  top:785px;
   width:28px;
   height:56px;
   display:flex;
@@ -1079,8 +1078,8 @@
 #u20 {
   border-width:0px;
   position:absolute;
-  left:150px;
-  top:629px;
+  left:120px;
+  top:785px;
   width:28px;
   height:56px;
   display:flex;
@@ -1150,8 +1149,8 @@
 #u21 {
   border-width:0px;
   position:absolute;
-  left:53px;
-  top:629px;
+  left:23px;
+  top:785px;
   width:28px;
   height:56px;
   display:flex;
@@ -1203,7 +1202,7 @@
   left:0px;
   top:0px;
   width:920px;
-  height:50px;
+  height:68px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   box-sizing:border-box;
@@ -1222,9 +1221,9 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:-1px;
+  top:0px;
   width:920px;
-  height:50px;
+  height:68px;
   display:flex;
   font-family:'微软雅黑';
   font-weight:400;
@@ -1249,7 +1248,7 @@
   left:0px;
   top:0px;
   width:157px;
-  height:49px;
+  height:68px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -1270,7 +1269,7 @@
   left:194px;
   top:0px;
   width:157px;
-  height:49px;
+  height:68px;
   display:flex;
   font-family:'微软雅黑';
   font-weight:400;
@@ -1297,7 +1296,7 @@
   left:0px;
   top:0px;
   width:230px;
-  height:49px;
+  height:67px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -1318,7 +1317,7 @@
   left:373px;
   top:1px;
   width:230px;
-  height:49px;
+  height:67px;
   display:flex;
   font-family:'微软雅黑';
   font-weight:400;
@@ -1345,7 +1344,7 @@
   left:0px;
   top:0px;
   width:135px;
-  height:49px;
+  height:67px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -1366,7 +1365,7 @@
   left:629px;
   top:1px;
   width:135px;
-  height:49px;
+  height:67px;
   display:flex;
   font-family:'微软雅黑';
   font-weight:400;
@@ -1393,7 +1392,7 @@
   left:0px;
   top:0px;
   width:156px;
-  height:49px;
+  height:68px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -1414,7 +1413,7 @@
   left:764px;
   top:0px;
   width:156px;
-  height:49px;
+  height:68px;
   display:flex;
   font-family:'微软雅黑';
   font-weight:400;
@@ -1450,8 +1449,8 @@
 .u28 {
   border-width:0px;
   position:absolute;
-  left:32px;
-  top:17px;
+  left:27px;
+  top:32px;
   width:23px;
   height:16px;
   display:flex;
@@ -1495,7 +1494,7 @@
   left:0px;
   top:0px;
   width:127px;
-  height:49px;
+  height:67px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -1516,7 +1515,7 @@
   left:62px;
   top:1px;
   width:127px;
-  height:49px;
+  height:67px;
   display:flex;
   font-family:'微软雅黑';
   font-weight:400;
@@ -1543,7 +1542,7 @@
   left:0px;
   top:0px;
   width:920px;
-  height:50px;
+  height:68px;
 }
 .u28 label {
   left:0px;
@@ -1553,9 +1552,9 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:50px;
+  top:68px;
   width:920px;
-  height:50px;
+  height:68px;
 }
 .u28 label {
   left:0px;
@@ -1565,9 +1564,9 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:100px;
+  top:136px;
   width:920px;
-  height:50px;
+  height:68px;
 }
 .u28 label {
   left:0px;
@@ -1577,9 +1576,9 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:150px;
+  top:204px;
   width:920px;
-  height:50px;
+  height:68px;
 }
 .u28 label {
   left:0px;
@@ -1589,9 +1588,9 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:200px;
+  top:272px;
   width:920px;
-  height:50px;
+  height:68px;
 }
 .u28 label {
   left:0px;
@@ -1601,9 +1600,9 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:250px;
+  top:340px;
   width:920px;
-  height:50px;
+  height:68px;
 }
 .u28 label {
   left:0px;
@@ -1613,9 +1612,9 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:300px;
+  top:408px;
   width:920px;
-  height:50px;
+  height:68px;
 }
 .u28 label {
   left:0px;
@@ -1625,9 +1624,9 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:350px;
+  top:476px;
   width:920px;
-  height:50px;
+  height:68px;
 }
 .u28 label {
   left:0px;
@@ -1637,9 +1636,9 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:400px;
+  top:544px;
   width:920px;
-  height:50px;
+  height:68px;
 }
 .u28 label {
   left:0px;
@@ -1649,9 +1648,9 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:450px;
+  top:612px;
   width:920px;
-  height:50px;
+  height:68px;
 }
 .u28 label {
   left:0px;
@@ -1660,12 +1659,53 @@
 #u22 {
   border-width:0px;
   position:absolute;
-  left:30px;
-  top:133px;
+  left:0px;
+  top:104px;
   width:920px;
-  height:500px;
+  height:680px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
   border-radius:0px;
+}
+#u30_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:78px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  color:#008080;
+}
+#u30 {
+  border-width:0px;
+  position:absolute;
+  left:827px;
+  top:14px;
+  width:78px;
+  height:32px;
+  display:flex;
+  color:#008080;
+}
+#u30 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u30_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
 }
