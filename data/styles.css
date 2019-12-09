@@ -10,17 +10,7 @@
   line-height:normal;
   text-transform:none;
 }
-.box_1 {
-}
-.box_2 {
-}
-.image {
-}
-.primary_button {
-  color:#FFFFFF;
-}
-.link_button {
-  color:#169BD5;
+._图片_ {
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -66,13 +56,30 @@
 ._文本段落 {
   text-align:left;
 }
+._表单提示 {
+  color:#999999;
+}
+._表单禁用 {
+}
+._流程形状 {
+}
+._默认样式 {
+}
+._文本链接 {
+  color:#0000FF;
+}
+.image {
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
 .line {
 }
-.text_field {
-  color:#000000;
-  text-align:left;
+.box_1 {
 }
-.text_area {
+.text_field {
   color:#000000;
   text-align:left;
 }
@@ -81,31 +88,30 @@
 }
 .form_disabled {
 }
-._表单提示 {
-  color:#999999;
+.box_2 {
 }
-._表单禁用 {
-}
-.button {
-}
-.droplist {
-  color:#000000;
+.label {
+  font-size:14px;
   text-align:left;
 }
-.list_box {
+._形状 {
+  font-size:13px;
+  color:#000000;
+}
+._文本框 {
+  font-size:13px;
   color:#000000;
   text-align:left;
 }
 .checkbox {
   text-align:left;
 }
-.tree_node {
+._表格 {
+}
+._鼠标按下文本链接时 {
+}
+.text_area {
+  color:#000000;
   text-align:left;
-}
-.table_cell {
-}
-.menu_item {
-}
-._流程形状 {
 }
 textarea, select, input, button { outline: none; }
